@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Wall
+  - House1_Entrance
+  - Monster
+  - DungeonDoor
+  - House1_Exit
+  - House2_Entrance
+  - House3_Entrance
+  - Dungeon_Entrance
+  - House2_Exit
+  - DungeonLobby_Entrance
+  - Shop_Exit
+  - Shop_Entrance
+  - DungeonLobby_Exit
+  - PNJ
+  - Marchande
+  - DungeonDoorExit
+  - Rocher
+  - Bateau
+  - Despawn
+  - Checkpoint1
+  - Checkpoint2
+  - King
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Other
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2838536499
+    locked: 0
+  - name: Props
+    uniqueID: 2794540545
+    locked: 0
+  - name: Wall
+    uniqueID: 3262125931
+    locked: 0
+  - name: Player
+    uniqueID: 3839070307
+    locked: 0
+  - name: Monster
+    uniqueID: 615982867
+    locked: 0
+  - name: Effect
+    uniqueID: 2974474581
+    locked: 0
+  - name: MapDecoration
+    uniqueID: 2070785615
+    locked: 0
